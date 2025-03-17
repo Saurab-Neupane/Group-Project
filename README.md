@@ -1,2 +1,2 @@
 # Group-Project
-Group project 
+Hi there its just a group project given to us by our university 
